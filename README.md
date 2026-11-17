@@ -4,15 +4,18 @@
 
 - 3+ years shipping production apps: marketplaces, subscription apps and social platforms with thousands of users
 - Integrated **10+ payment & financial systems**: Stripe Connect, In-App Purchases (iOS/Android), Plaid, Basiq, Khalti, eSewa
-- Currently building **[FlowPilot](https://bijayastha.com.np/#projects)**, a business automation SaaS
+- Currently building **[FlowPilot](https://bijayastha.com.np/#projects)**, a business automation SaaS, and **[Urja](https://bijayastha.com.np/#projects)**, an EV charging platform for Nepal
 - **Available for remote contract & freelance work.** [See my portfolio →](https://bijayastha.com.np)
 
 ---
 
-### Featured
+### My products
 
 **[FlowPilot](https://bijayastha.com.np/#projects)** *(private repo, walkthrough on request)*: an automation platform for small businesses. It has a visual flow builder, a background task engine, 30+ integrations (Xero, Stripe, Shopify, HubSpot, Slack…), multi-tenant workspaces and an admin portal.
 `Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Drizzle` `Turborepo` `Playwright`
+
+**[Urja](https://bijayastha.com.np/#projects)** *(in development, private repo)*: an EV charging and booking platform for Nepal. It has a REST API and an admin dashboard for stations, chargers, bookings and NPR pricing, with role-based access and enforced staff 2FA.
+`Next.js 16` `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL`
 
 ### Client work (with Uno Technology)
 
