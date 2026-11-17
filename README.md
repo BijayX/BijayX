@@ -4,14 +4,14 @@
 
 - 🚀 3+ years shipping production apps: marketplaces, subscription apps and social platforms with thousands of users
 - 💳 Integrated **10+ payment & financial systems**: Stripe Connect, In-App Purchases (iOS/Android), Plaid, Basiq, Khalti, eSewa
-- 🛠️ Currently building **[FlowPilot](https://github.com/BijayX/workflow)**, a business automation SaaS
+- 🛠️ Currently building **[FlowPilot](https://bijayastha.com.np/#projects)**, a business automation SaaS
 - 💼 **Available for remote contract & freelance work.** [See my portfolio →](https://bijayastha.com.np)
 
 ---
 
 ### ⭐ Featured
 
-**[FlowPilot](https://github.com/BijayX/workflow)**: an automation platform for small businesses. It has a visual flow builder, a background task engine, 30+ integrations (Xero, Stripe, Shopify, HubSpot, Slack…), multi-tenant workspaces and an admin portal.
+**[FlowPilot](https://bijayastha.com.np/#projects)** *(private repo, walkthrough on request)*: an automation platform for small businesses. It has a visual flow builder, a background task engine, 30+ integrations (Xero, Stripe, Shopify, HubSpot, Slack…), multi-tenant workspaces and an admin portal.
 `Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Drizzle` `Turborepo` `Playwright`
 
 ### 🇦🇺 Client work (with Uno Technology)
